@@ -14,1157 +14,1131 @@ input {
 body {
   width: 150rem;
 }.frame-3-X4g {
+  width: 100%;
+  overflow: hidden;
   position: relative;
   align-items: center;
   display: flex;
   flex-direction: column;
   background-color: #ffffff;
+}
+.frame-3-X4g .auto-group-oda4-YkU {
   width: 100%;
+  height: 954.6001rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .line-3-ctk {
+  width: 0.0005rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 127.4rem;
+  top: 0;
+  background-color: #a8aa61;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN {
+  width: 105.8rem;
+  height: 785.1001rem;
+  position: absolute;
+  left: 22rem;
+  top: 169.5rem;
+  border-top: solid 0.2rem #a8aa61;
+  box-sizing: border-box;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .hikayemiz-1vt {
+  width: 15.9rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 45.3rem;
+  top: 10.1rem;
+  font-size: 4.5rem;
+  font-weight: 400;
+  line-height: 0.2666666667;
+  letter-spacing: 0.405rem;
+  color: #000000;
+  font-family: Caramel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .hakkimizda-pdS {
+  width: 31.1rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 15.5rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.3;
+  letter-spacing: 0.36rem;
+  color: #000000;
+  font-family: Caudex, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q {
+  width: 88.5rem;
+  height: 18rem;
+  position: absolute;
+  left: 8.75rem;
+  top: 20.6rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.4;
+  letter-spacing: 0.27rem;
+  color: #000000;
+  font-family: Caudex, 'Source Sans Pro';
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q-sub-0 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.27rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q-sub-1 {
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.4;
+  letter-spacing: 0.27rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vzfz-YdJ {
+  width: 94.9rem;
+  height: 54.1rem;
+  position: absolute;
+  left: 5rem;
+  top: 47.3rem;
+  display: flex;
+  align-items: center;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vzfz-YdJ .siena-1-qsJ {
+  margin-right: 3rem;
+  width: 32.7rem;
+  height: 54.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vzfz-YdJ .bg-1-NMS {
+  margin: 0.1rem 2.9rem 0rem 0rem;
+  width: 23.6rem;
+  height: 41rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vzfz-YdJ .browni-1-gsv {
+  width: 32.7rem;
+  height: 54.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .rnler-quE {
+  width: 21rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 40.45rem;
+  top: 126.3rem;
+  text-align: center;
+  font-size: 4.5rem;
+  font-weight: 200;
+  line-height: 0.3111111111;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .pastalar-KZW {
+  width: 14.6rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 43.3rem;
+  top: 132.1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 0.4666666667;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vjmz-oja {
+  width: 91.4rem;
+  height: 33rem;
+  position: absolute;
+  left: 5rem;
+  top: 142.7rem;
+  display: flex;
+  align-items: center;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vjmz-oja .newyork-1-1-XQg {
+  margin-right: 4.4rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vjmz-oja .festival-1-TJL {
+  margin-right: 4.5rem;
+  width: 27.7rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-vjmz-oja .frambuaz-cikolata-1-zZA {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-uk2c-Xoz {
+  width: 86.15rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 11.65rem;
+  top: 177.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-uk2c-Xoz .new-york-Svx {
+  margin-right: 18.9rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-uk2c-Xoz .festival-mTS {
+  margin: 0rem 12.35rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-uk2c-Xoz .frambuaz-ikolata-f32 {
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-gknq-a9z {
+  width: 91.4rem;
+  height: 33rem;
+  position: absolute;
+  left: 5rem;
+  top: 191.1rem;
+  display: flex;
+  align-items: center;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-gknq-a9z .mois-1-1-i1J {
+  margin-right: 4.7rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-gknq-a9z .moblan-1-efe {
+  margin-right: 4.5rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-gknq-a9z .profiterol-cikolata-1-PNL {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-z8dr-WSx {
+  width: 83.05rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 15.3rem;
+  top: 226.1rem;
+  display: flex;
+  align-items: center;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-z8dr-WSx .mois-cVz {
+  margin: 0.7rem 23.25rem 0rem 0rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-z8dr-WSx .moblan-7xY {
+  margin: 0rem 11.8rem 0.3rem 0rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-z8dr-WSx .profiterol-ikolata-RCY {
+  margin-bottom: 0.7rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck {
+  width: 105.545rem;
+  height: 519.4001rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 265.7rem;
+  display: flex;
+  align-items: flex-end;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW {
+  margin-bottom: 0.0001rem;
+  width: 105.2rem;
+  height: calc(100% - 0.0001rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-jrza-k8L {
+  margin: 0rem 8.5rem 2.6rem 4.7rem;
+  width: calc(100% - 13.2rem);
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-jrza-k8L .blueberry-1-iWQ {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-jrza-k8L .mile-1-4KN {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-jrza-k8L .cilekli-ibiza-1-oGx {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-au1e-Lng {
+  margin: 0rem 9.9rem 8.8rem 0rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-au1e-Lng .blueberry-cheesecake-GgL {
+  margin-right: 15.05rem;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-au1e-Lng .blueberry-cheesecake-GgL .blueberry-cheesecake-GgL-sub-0 {
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-au1e-Lng .blueberry-cheesecake-GgL .blueberry-cheesecake-GgL-sub-1 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-au1e-Lng .blueberry-cheesecake-GgL .blueberry-cheesecake-GgL-sub-2 {
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-au1e-Lng .mile-Bgp {
+  margin-right: 20.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-au1e-Lng .ibiza-ilek-6on {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-fz6c-pUt {
+  margin: 0rem 8.5rem 2.05rem 4.7rem;
+  width: calc(100% - 13.2rem);
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-fz6c-pUt .fistikli-prens-1-jrk {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-fz6c-pUt .orman-meyveli-mousse-1-Grg {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-fz6c-pUt .tiramisu-1-cfe {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-k2ku-kWx {
+  margin: 0rem 15.3rem 10.4rem 8.15rem;
+  width: calc(100% - 23.45rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-k2ku-kWx .fistikli-prens-53S {
+  margin: 1.25rem 6.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-k2ku-kWx .orman-meyveli-mousse-NHS {
+  margin: 0.3rem 7.35rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-k2ku-kWx .tiramusu-Tpg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-cqxp-nrx {
+  margin: 0rem 8.5rem 2.65rem 4.7rem;
+  width: calc(100% - 13.2rem);
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-cqxp-nrx .tart-7eL {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-cqxp-nrx .portakal-1-TTJ {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-cqxp-nrx .san-sebastian-1-QNY {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-3tuq-Yje {
+  margin: 0rem 11.65rem 12.3rem 15.05rem;
+  width: calc(100% - 26.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-3tuq-Yje .tart-TLp {
+  margin: 0.55rem 15.85rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-3tuq-Yje .portakal-limonlu-9zL {
+  margin: 0rem 7.65rem 0.55rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-3tuq-Yje .san-sebastian-4Lc {
+  margin-bottom: 0.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .line-11-BAL {
+  margin: 0rem 0rem 13.4rem 0rem;
+  width: calc(100% - 0rem);
+  height: 0.2rem;
+  background-color: #a8aa61;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .kurabiyeler-Vgp {
+  margin: 0rem 3.8rem 8.9rem 0rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 0.4666666667;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-8xz4-1QG {
+  margin: 0rem 9rem 2.6rem 4.7rem;
+  width: calc(100% - 13.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-8xz4-1QG .yulafli-1-w32 {
+  margin-right: 5.3rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-8xz4-1QG .bademli-uzumlu-1-fzc {
+  margin-right: 4rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-8xz4-1QG .bitterli-1-cex {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-he7n-xD2 {
+  margin: 0rem 11.95rem 8.3rem 12.05rem;
+  width: calc(100% - 24rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-he7n-xD2 .yulafli-HFJ {
+  margin-right: 15.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-he7n-xD2 .bademli-zml-Ct4 {
+  margin: 0rem 8.6rem 0.4rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-he7n-xD2 .bitterli-kurabiye-WNx {
+  max-width: 22.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-kioe-QjE {
+  margin: 0rem 9.4rem 2rem 4.7rem;
+  width: calc(100% - 14.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-kioe-QjE .cikolata-findik-1-8v8 {
+  margin-right: 5.3rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-kioe-QjE .krepctrl-1-gAx {
+  margin-right: 3.6rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-kioe-QjE .hindistancevizi-1-oWU {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-spbn-jf2 {
+  margin: 0rem 10.85rem 8rem 6.35rem;
+  width: calc(100% - 17.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-spbn-jf2 .ikolata-findik-foa {
+  margin: 0rem 13.15rem 0.4rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-spbn-jf2 .krep-itirli-yZN {
+  margin: 0.2rem 11.35rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-spbn-jf2 .hindistancevizi-kayisi-tRS {
+  max-width: 23.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-grlg-Q8t {
+  margin: 0rem 9.4rem 1.75rem 4.7rem;
+  width: calc(100% - 14.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-grlg-Q8t .misirgevrekli-1-7oz {
+  margin-right: 5.3rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-grlg-Q8t .mini-sufle-1-FvC {
+  margin-right: 3.6rem;
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-grlg-Q8t .tarcin-ceviz-1-CaY {
+  width: 27.4rem;
+  height: 33rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-zvyl-9Et {
+  margin: 0rem 13.9rem 19.3rem 7.7rem;
+  width: calc(100% - 21.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-zvyl-9Et .misir-gevrekli-tCU {
+  margin: 0.35rem 14.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-zvyl-9Et .mini-sufle-BxG {
+  margin: 0rem 14rem 0.15rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .auto-group-zvyl-9Et .tarin-ceviz-Vxx {
+  margin-bottom: 0.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 0.5;
+  letter-spacing: 0.28rem;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .line-10-pEY {
+  margin: 0rem 0rem 13.2rem 0.4rem;
+  width: 104.8rem;
+  height: 0.2rem;
+  background-color: #a8aa61;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .men--kP6 {
+  margin: 0rem 0rem 9rem 0.3rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 200;
+  line-height: 0.35;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .brownie-148-tl-bitter-stl-beyaz-belika-ikolatalar-ceviz-paracklar-budapeste-148-tl-acbadem-hamuru-prenses-kremas-ilek-ve-yaban-mersini-milfy-148-tl-milfy-hamuru-ilek-ve-muhallebi-krema-volkanik-148-tl-muz-fstk-akkan-ikolata-festival-148-tl-ilek-fstk-akkan-ikolata-jakante-148-tl-delisch-krema-toz-fstk-ve-ilek-red-velved-148-tl-frambuazl-kek-ilek-yaban-mersini-frambuaz-delisch-krema-krokanli-148-tl-krokan-stl-ikolata-ve-ikolata-paracklar-royal-168-tl-fstk-ikolata-ve-zel-ikolata-sos-valencia-148-tl-prenses-krema-karamel-fndk-paralar-ile-ikolatal-kekle-sarlm-rulo-muz-veya-ilek-148tl-zel-rulo-kek-ve-muz-ilek-oreo-ilek-148tl-ikolatal-prenses-krema-oreo-paracklar-ilek-frambuaz-ilek-148tl-muhallebi-kvamnda-krema-frambuaz-ilek-polka-148tl-ilek-muz-akkan-ikolata-ve-kavrulmu-badem-paralar-vila-168tl-ikolatal-islak-kek-gold-ikolatal-zel-krema-muz-ve-ikolata-siena-168tl-ikolatal-krep-tr-yumuak-zel-kremas-spesiyal-lezzetlerimizden-ibiza-muzlu-168tl-prenses-krema-biskvi-kapl-belika-ikolata-ibiza-ilekli-168tl-bardakta-prenses-krema-biskvi-kapl-belika-ikolata-fistikli-prens-168tl-fslk-ile-sarlms-kaymak-kvamnda-kremas-frnlanm-tr-kadayf-tane-fstk-bulle-168tl-eritilmi-bitter-ve-beyaz-ikolata-yumuack-bir-lezzet-delisch-palha-168tl-st-ile-eritilmi-belika-ikolataskavrulmu-biskvi-ve-fndk-paracklar-italyan-tiramisu-168tl-100-arabica-kahve-savoyer-biskvi-mascarpone-kremas-orman-meyveli-mousse-168tl-ikolata-mousse-kremaorman-meyveleri-ve-krep-trlar-manarola-168tl-zel-delisch-kurabiye-taban-beyaz-ikolata-mascarpone-peyniri-hindistan-ceviz-san-sebastian-cheesecake-168tl-brtlen-ikolata-sos-ile-blueberry-cheesecake-168tl-beyaz-ikolata-ve-krema-yaban-mersini-taneler-fistikli-cheesecake-168tl-tereyalu-fstkl-zel-biskvi-zerine-beyaz-ikolatal-tlm-fstk-monza-168-tl-islak-keki-gold-ikolatal-kremas-frnlanm-yer-fst-U4C {
+  margin: 0rem 0rem 68.4rem 2.6rem;
+  max-width: 96.7rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.4;
+  color: #000000;
+  font-family: Inder, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-gkdj-4FW .line-8-Knt {
+  margin-right: 104.8rem;
+  width: 0rem;
+  height: 0.2rem;
+  background-color: #a8aa61;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .auto-group-lgda-8ck .auto-group-23yq-T8Q {
+  width: 0.345rem;
+  height: 513.5001rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .spesiyal-rnler-P24 {
+  width: 28.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 36.55rem;
+  top: 255.1rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 0.4666666667;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .line-12-sC8 {
+  width: 105.4rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 240.9rem;
+  background-color: #a8aa61;
+}
+.frame-3-X4g .auto-group-oda4-YkU .frame-2-KHN .line-13-bP2 {
+  width: 105.6rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 115.9rem;
+  background-color: #a8aa61;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE {
+  width: 150rem;
+  height: 173.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
   overflow: hidden;
-
-  .auto-group-oda4-YkU {
-    flex-shrink: 0;
-    width: 100%;
-    height: 954.6001rem;
-    position: relative;
-
-    .line-3-ctk {
-      height: 0.2rem;
-      position: absolute;
-      left: 127.4rem;
-      top: 0;
-      background-color: #a8aa61;
-      width: 0.0005rem;
-    }
-    .frame-2-KHN {
-      height: 785.1001rem;
-      position: absolute;
-      left: 22rem;
-      top: 169.5rem;
-      border-top: solid 0.2rem #a8aa61;
-      box-sizing: border-box;
-      width: 105.8rem;
-
-      .hikayemiz-1vt {
-        letter-spacing: 0.405rem;
-        color: #000000;
-        font-family: Caramel, 'Source Sans Pro';
-        white-space: nowrap;
-        height: 1.2rem;
-        top: 10.1rem;
-        font-weight: 400;
-        line-height: 0.2666666667;
-        width: 15.9rem;
-        position: absolute;
-        left: 45.3rem;
-        font-size: 4.5rem;
-      }
-      .hakkimizda-pdS {
-        top: 15.5rem;
-        font-weight: 400;
-        line-height: 0.3;
-        color: #000000;
-        width: 31.1rem;
-        position: absolute;
-        left: 37.7rem;
-        font-family: Caudex, 'Source Sans Pro';
-        white-space: nowrap;
-        height: 1.2rem;
-        font-size: 4rem;
-        letter-spacing: 0.36rem;
-      }
-      .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q {
-        font-size: 3rem;
-        font-family: Caudex, 'Source Sans Pro';
-        width: 88.5rem;
-        height: 18rem;
-        left: 8.75rem;
-        top: 20.6rem;
-        letter-spacing: 0.27rem;
-        color: #000000;
-        position: absolute;
-        text-align: center;
-        font-weight: 400;
-        line-height: 0.4;
-
-        .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q-sub-0 {
-          font-weight: 400;
-          line-height: 1.5;
-          letter-spacing: 0.27rem;
-          color: #000000;
-          font-family: Dosis, 'Source Sans Pro';
-          font-size: 3rem;
-        }
-        .yerinde-retim-yapmann-avantajlarn-kullanarak-donuk-rn-piirme-rn-depolama-ve-merkezi-retimden-rn-tama-sistemlerinden-uzaklaarak-misafirlerimize-gnlk-taze-rnler-sunmann-mutluluunu-yayoruz-K4Q-sub-1 {
-          font-size: 3rem;
-          font-weight: 400;
-          line-height: 0.4;
-          letter-spacing: 0.27rem;
-          color: #000000;
-          font-family: Dosis, 'Source Sans Pro';
-        }
-      }
-      .auto-group-vzfz-YdJ {
-        top: 47.3rem;
-        display: flex;
-        align-items: center;
-        width: 94.9rem;
-        height: 54.1rem;
-        position: absolute;
-        left: 5rem;
-
-        .siena-1-qsJ {
-          vertical-align: top;
-          flex-shrink: 0;
-          margin-right: 3rem;
-          width: 32.7rem;
-          height: 54.1rem;
-          object-fit: cover;
-        }
-        .bg-1-NMS {
-          vertical-align: top;
-          flex-shrink: 0;
-          margin: 0.1rem 2.9rem 0rem 0rem;
-          width: 23.6rem;
-          height: 41rem;
-          object-fit: cover;
-        }
-        .browni-1-gsv {
-          height: 54.1rem;
-          object-fit: cover;
-          vertical-align: top;
-          flex-shrink: 0;
-          width: 32.7rem;
-        }
-      }
-      .rnler-quE {
-        width: 21rem;
-        height: 1.4rem;
-        font-size: 4.5rem;
-        font-weight: 200;
-        font-family: Inter, 'Source Sans Pro';
-        white-space: nowrap;
-        position: absolute;
-        left: 40.45rem;
-        top: 126.3rem;
-        text-align: center;
-        line-height: 0.3111111111;
-        font-style: italic;
-        color: #000000;
-      }
-      .pastalar-KZW {
-        line-height: 0.4666666667;
-        color: #000000;
-        white-space: nowrap;
-        position: absolute;
-        left: 43.3rem;
-        font-size: 3rem;
-        text-align: center;
-        font-weight: 200;
-        font-style: italic;
-        font-family: Inter, 'Source Sans Pro';
-        width: 14.6rem;
-        height: 1.4rem;
-        top: 132.1rem;
-      }
-      .auto-group-vjmz-oja {
-        width: 91.4rem;
-        height: 33rem;
-        position: absolute;
-        left: 5rem;
-        top: 142.7rem;
-        display: flex;
-        align-items: center;
-
-        .newyork-1-1-XQg {
-          flex-shrink: 0;
-          margin-right: 4.4rem;
-          width: 27.4rem;
-          height: 33rem;
-          object-fit: cover;
-          vertical-align: top;
-        }
-        .festival-1-TJL {
-          height: 33rem;
-          object-fit: cover;
-          vertical-align: top;
-          flex-shrink: 0;
-          margin-right: 4.5rem;
-          width: 27.7rem;
-        }
-        .frambuaz-cikolata-1-zZA {
-          width: 27.4rem;
-          height: 33rem;
-          object-fit: cover;
-          vertical-align: top;
-          flex-shrink: 0;
-        }
-      }
-      .auto-group-uk2c-Xoz {
-        position: absolute;
-        left: 11.65rem;
-        top: 177.8rem;
-        display: flex;
-        align-items: flex-end;
-        width: 86.15rem;
-        height: 1.5rem;
-
-        .new-york-Svx {
-          color: #000000;
-          font-family: Dosis, 'Source Sans Pro';
-          margin-right: 18.9rem;
-          text-align: center;
-          font-size: 2.8rem;
-          letter-spacing: 0.28rem;
-          font-weight: 400;
-          line-height: 0.5;
-          white-space: nowrap;
-          flex-shrink: 0;
-        }
-        .festival-mTS {
-          margin: 0rem 12.35rem 0.1rem 0rem;
-          line-height: 0.5;
-          letter-spacing: 0.28rem;
-          text-align: center;
-          font-size: 2.8rem;
-          font-weight: 400;
-          color: #000000;
-          font-family: Dosis, 'Source Sans Pro';
-          white-space: nowrap;
-          flex-shrink: 0;
-        }
-        .frambuaz-ikolata-f32 {
-          line-height: 0.5;
-          font-family: Dosis, 'Source Sans Pro';
-          white-space: nowrap;
-          flex-shrink: 0;
-          font-size: 2.8rem;
-          font-weight: 400;
-          color: #000000;
-          text-align: center;
-          letter-spacing: 0.28rem;
-        }
-      }
-      .auto-group-gknq-a9z {
-        width: 91.4rem;
-        height: 33rem;
-        position: absolute;
-        left: 5rem;
-        top: 191.1rem;
-        display: flex;
-        align-items: center;
-
-        .mois-1-1-i1J {
-          margin-right: 4.7rem;
-          width: 27.4rem;
-          height: 33rem;
-          object-fit: cover;
-          vertical-align: top;
-          flex-shrink: 0;
-        }
-        .moblan-1-efe {
-          margin-right: 4.5rem;
-          width: 27.4rem;
-          height: 33rem;
-          object-fit: cover;
-          vertical-align: top;
-          flex-shrink: 0;
-        }
-        .profiterol-cikolata-1-PNL {
-          width: 27.4rem;
-          height: 33rem;
-          object-fit: cover;
-          vertical-align: top;
-          flex-shrink: 0;
-        }
-      }
-      .auto-group-z8dr-WSx {
-        top: 226.1rem;
-        display: flex;
-        align-items: center;
-        width: 83.05rem;
-        height: 2.1rem;
-        position: absolute;
-        left: 15.3rem;
-
-        .mois-cVz {
-          font-size: 2.8rem;
-          letter-spacing: 0.28rem;
-          font-family: Dosis, 'Source Sans Pro';
-          margin: 0.7rem 23.25rem 0rem 0rem;
-          text-align: center;
-          color: #000000;
-          white-space: nowrap;
-          flex-shrink: 0;
-          font-weight: 400;
-          line-height: 0.5;
-        }
-        .moblan-7xY {
-          flex-shrink: 0;
-          font-weight: 400;
-          letter-spacing: 0.28rem;
-          font-family: Dosis, 'Source Sans Pro';
-          white-space: nowrap;
-          color: #000000;
-          margin: 0rem 11.8rem 0.3rem 0rem;
-          text-align: center;
-          font-size: 2.8rem;
-          line-height: 0.5;
-        }
-        .profiterol-ikolata-RCY {
-          color: #000000;
-          white-space: nowrap;
-          flex-shrink: 0;
-          text-align: center;
-          font-size: 2.8rem;
-          font-weight: 400;
-          font-family: Dosis, 'Source Sans Pro';
-          margin-bottom: 0.7rem;
-          line-height: 0.5;
-          letter-spacing: 0.28rem;
-        }
-      }
-      .auto-group-lgda-8ck {
-        left: 0.2rem;
-        top: 265.7rem;
-        display: flex;
-        align-items: flex-end;
-        width: 105.545rem;
-        height: 519.4001rem;
-        position: absolute;
-
-        .auto-group-gkdj-4FW {
-          margin-bottom: 0.0001rem;
-          width: 105.2rem;
-          height: calc(100% - 0.0001rem);
-          align-items: center;
-          display: flex;
-          flex-direction: column;
-          flex-shrink: 0;
-
-          .auto-group-jrza-k8L {
-            align-items: center;
-            flex-shrink: 0;
-            margin: 0rem 8.5rem 2.6rem 4.7rem;
-            width: calc(100% - 13.2rem);
-            display: flex;
-            column-gap: 4.9rem;
-
-            .blueberry-1-iWQ {
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-              width: 27.4rem;
-            }
-            .mile-1-4KN {
-              vertical-align: top;
-              flex-shrink: 0;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-            }
-            .cilekli-ibiza-1-oGx {
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-          }
-          .auto-group-au1e-Lng {
-            margin: 0rem 9.9rem 8.8rem 0rem;
-            display: flex;
-            align-items: center;
-            flex-shrink: 0;
-
-            .blueberry-cheesecake-GgL {
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              margin-right: 15.05rem;
-              display: flex;
-              align-items: baseline;
-              justify-content: center;
-              font-size: 2.8rem;
-              line-height: 0.5;
-              flex-shrink: 0;
-              font-weight: 400;
-              white-space: nowrap;
-
-              .blueberry-cheesecake-GgL-sub-0 {
-              }
-              .blueberry-cheesecake-GgL-sub-1 {
-                font-weight: 400;
-                line-height: 0.5;
-                letter-spacing: 0.28rem;
-                color: #000000;
-                font-family: Dosis, 'Source Sans Pro';
-                font-size: 2.8rem;
-              }
-              .blueberry-cheesecake-GgL-sub-2 {
-              }
-            }
-            .mile-Bgp {
-              font-family: Dosis, 'Source Sans Pro';
-              flex-shrink: 0;
-              display: flex;
-              font-weight: 400;
-              line-height: 0.5;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              white-space: nowrap;
-              margin-right: 20.55rem;
-              align-items: center;
-              justify-content: center;
-              font-size: 2.8rem;
-            }
-            .ibiza-ilek-6on {
-              flex-shrink: 0;
-              justify-content: center;
-              font-weight: 400;
-              line-height: 0.5;
-              letter-spacing: 0.28rem;
-              font-family: Dosis, 'Source Sans Pro';
-              display: flex;
-              align-items: center;
-              font-size: 2.8rem;
-              color: #000000;
-              white-space: nowrap;
-            }
-          }
-          .auto-group-fz6c-pUt {
-            column-gap: 4.9rem;
-            align-items: center;
-            flex-shrink: 0;
-            margin: 0rem 8.5rem 2.05rem 4.7rem;
-            width: calc(100% - 13.2rem);
-            display: flex;
-
-            .fistikli-prens-1-jrk {
-              flex-shrink: 0;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-            }
-            .orman-meyveli-mousse-1-Grg {
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-            .tiramisu-1-cfe {
-              vertical-align: top;
-              flex-shrink: 0;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-            }
-          }
-          .auto-group-k2ku-kWx {
-            align-items: flex-start;
-            flex-shrink: 0;
-            margin: 0rem 15.3rem 10.4rem 8.15rem;
-            width: calc(100% - 23.45rem);
-            display: flex;
-
-            .fistikli-prens-53S {
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              flex-shrink: 0;
-              margin: 1.25rem 6.2rem 0rem 0rem;
-              font-size: 2.8rem;
-              font-weight: 400;
-              line-height: 0.5;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              white-space: nowrap;
-            }
-            .orman-meyveli-mousse-NHS {
-              font-weight: 400;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              white-space: nowrap;
-              margin: 0.3rem 7.35rem 0rem 0rem;
-              justify-content: center;
-              font-size: 2.8rem;
-              line-height: 0.5;
-              flex-shrink: 0;
-              display: flex;
-              align-items: center;
-            }
-            .tiramusu-Tpg {
-              font-family: Dosis, 'Source Sans Pro';
-              flex-shrink: 0;
-              font-size: 2.8rem;
-              font-weight: 400;
-              line-height: 0.5;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              white-space: nowrap;
-            }
-          }
-          .auto-group-cqxp-nrx {
-            width: calc(100% - 13.2rem);
-            display: flex;
-            column-gap: 4.9rem;
-            align-items: center;
-            flex-shrink: 0;
-            margin: 0rem 8.5rem 2.65rem 4.7rem;
-
-            .tart-7eL {
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-              width: 27.4rem;
-            }
-            .portakal-1-TTJ {
-              vertical-align: top;
-              flex-shrink: 0;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-            }
-            .san-sebastian-1-QNY {
-              vertical-align: top;
-              flex-shrink: 0;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-            }
-          }
-          .auto-group-3tuq-Yje {
-            margin: 0rem 11.65rem 12.3rem 15.05rem;
-            width: calc(100% - 26.7rem);
-            display: flex;
-            align-items: center;
-            flex-shrink: 0;
-
-            .tart-TLp {
-              justify-content: center;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              flex-shrink: 0;
-              margin: 0.55rem 15.85rem 0rem 0rem;
-              display: flex;
-              align-items: center;
-              font-size: 2.8rem;
-              font-weight: 400;
-              line-height: 0.5;
-              font-family: Dosis, 'Source Sans Pro';
-              white-space: nowrap;
-            }
-            .portakal-limonlu-9zL {
-              margin: 0rem 7.65rem 0.55rem 0rem;
-              justify-content: center;
-              font-size: 2.8rem;
-              line-height: 0.5;
-              white-space: nowrap;
-              flex-shrink: 0;
-              display: flex;
-              align-items: center;
-              font-weight: 400;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-            }
-            .san-sebastian-4Lc {
-              margin-bottom: 0.25rem;
-              align-items: center;
-              font-weight: 400;
-              line-height: 0.5;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              display: flex;
-              justify-content: center;
-              font-size: 2.8rem;
-              letter-spacing: 0.28rem;
-              white-space: nowrap;
-              flex-shrink: 0;
-            }
-          }
-          .line-11-BAL {
-            height: 0.2rem;
-            background-color: #a8aa61;
-            flex-shrink: 0;
-            margin: 0rem 0rem 13.4rem 0rem;
-            width: calc(100% - 0rem);
-          }
-          .kurabiyeler-Vgp {
-            font-size: 3rem;
-            font-style: italic;
-            font-family: Inter, 'Source Sans Pro';
-            white-space: nowrap;
-            flex-shrink: 0;
-            margin: 0rem 3.8rem 8.9rem 0rem;
-            text-align: center;
-            font-weight: 200;
-            line-height: 0.4666666667;
-            color: #000000;
-          }
-          .auto-group-8xz4-1QG {
-            flex-shrink: 0;
-            margin: 0rem 9rem 2.6rem 4.7rem;
-            width: calc(100% - 13.7rem);
-            display: flex;
-            align-items: center;
-
-            .yulafli-1-w32 {
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-              margin-right: 5.3rem;
-              width: 27.4rem;
-              height: 33rem;
-            }
-            .bademli-uzumlu-1-fzc {
-              vertical-align: top;
-              flex-shrink: 0;
-              margin-right: 4rem;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-            }
-            .bitterli-1-cex {
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-          }
-          .auto-group-he7n-xD2 {
-            align-items: center;
-            flex-shrink: 0;
-            margin: 0rem 11.95rem 8.3rem 12.05rem;
-            width: calc(100% - 24rem);
-            display: flex;
-
-            .yulafli-HFJ {
-              font-family: Dosis, 'Source Sans Pro';
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              font-weight: 400;
-              line-height: 0.5;
-              flex-shrink: 0;
-              margin-right: 15.6rem;
-              font-size: 2.8rem;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              white-space: nowrap;
-            }
-            .bademli-zml-Ct4 {
-              align-items: center;
-              justify-content: center;
-              font-size: 2.8rem;
-              line-height: 0.5;
-              flex-shrink: 0;
-              margin: 0rem 8.6rem 0.4rem 0rem;
-              font-weight: 400;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              white-space: nowrap;
-              display: flex;
-            }
-            .bitterli-kurabiye-WNx {
-              justify-content: center;
-              font-size: 2.8rem;
-              line-height: 0.5;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              flex-shrink: 0;
-              max-width: 22.1rem;
-              display: flex;
-              align-items: center;
-              font-weight: 400;
-              letter-spacing: 0.28rem;
-            }
-          }
-          .auto-group-kioe-QjE {
-            align-items: center;
-            flex-shrink: 0;
-            margin: 0rem 9.4rem 2rem 4.7rem;
-            width: calc(100% - 14.1rem);
-            display: flex;
-
-            .cikolata-findik-1-8v8 {
-              margin-right: 5.3rem;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-            .krepctrl-1-gAx {
-              margin-right: 3.6rem;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-            .hindistancevizi-1-oWU {
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-          }
-          .auto-group-spbn-jf2 {
-            margin: 0rem 10.85rem 8rem 6.35rem;
-            width: calc(100% - 17.2rem);
-            display: flex;
-            align-items: center;
-            flex-shrink: 0;
-
-            .ikolata-findik-foa {
-              align-items: center;
-              justify-content: center;
-              font-weight: 400;
-              color: #000000;
-              flex-shrink: 0;
-              margin: 0rem 13.15rem 0.4rem 0rem;
-              display: flex;
-              letter-spacing: 0.28rem;
-              font-family: Dosis, 'Source Sans Pro';
-              white-space: nowrap;
-              font-size: 2.8rem;
-              line-height: 0.5;
-            }
-            .krep-itirli-yZN {
-              justify-content: center;
-              font-weight: 400;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              margin: 0.2rem 11.35rem 0rem 0rem;
-              display: flex;
-              align-items: center;
-              white-space: nowrap;
-              flex-shrink: 0;
-              font-size: 2.8rem;
-              line-height: 0.5;
-              font-family: Dosis, 'Source Sans Pro';
-            }
-            .hindistancevizi-kayisi-tRS {
-              max-width: 23.7rem;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              font-size: 2.8rem;
-              line-height: 0.5;
-              font-weight: 400;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              flex-shrink: 0;
-            }
-          }
-          .auto-group-grlg-Q8t {
-            width: calc(100% - 14.1rem);
-            display: flex;
-            align-items: center;
-            flex-shrink: 0;
-            margin: 0rem 9.4rem 1.75rem 4.7rem;
-
-            .misirgevrekli-1-7oz {
-              margin-right: 5.3rem;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-            .mini-sufle-1-FvC {
-              vertical-align: top;
-              flex-shrink: 0;
-              margin-right: 3.6rem;
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-            }
-            .tarcin-ceviz-1-CaY {
-              width: 27.4rem;
-              height: 33rem;
-              object-fit: cover;
-              vertical-align: top;
-              flex-shrink: 0;
-            }
-          }
-          .auto-group-zvyl-9Et {
-            display: flex;
-            align-items: center;
-            flex-shrink: 0;
-            margin: 0rem 13.9rem 19.3rem 7.7rem;
-            width: calc(100% - 21.6rem);
-
-            .misir-gevrekli-tCU {
-              display: flex;
-              justify-content: center;
-              font-size: 2.8rem;
-              letter-spacing: 0.28rem;
-              white-space: nowrap;
-              flex-shrink: 0;
-              margin: 0.35rem 14.2rem 0rem 0rem;
-              align-items: center;
-              font-weight: 400;
-              line-height: 0.5;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-            }
-            .mini-sufle-BxG {
-              letter-spacing: 0.28rem;
-              color: #000000;
-              font-family: Dosis, 'Source Sans Pro';
-              margin: 0rem 14rem 0.15rem 0rem;
-              align-items: center;
-              font-size: 2.8rem;
-              font-weight: 400;
-              line-height: 0.5;
-              white-space: nowrap;
-              flex-shrink: 0;
-              display: flex;
-              justify-content: center;
-            }
-            .tarin-ceviz-Vxx {
-              margin-bottom: 0.35rem;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              font-weight: 400;
-              line-height: 0.5;
-              letter-spacing: 0.28rem;
-              color: #000000;
-              font-size: 2.8rem;
-              font-family: Dosis, 'Source Sans Pro';
-              white-space: nowrap;
-              flex-shrink: 0;
-            }
-          }
-          .line-10-pEY {
-            background-color: #a8aa61;
-            flex-shrink: 0;
-            margin: 0rem 0rem 13.2rem 0.4rem;
-            width: 104.8rem;
-            height: 0.2rem;
-          }
-          .men--kP6 {
-            font-size: 4rem;
-            line-height: 0.35;
-            color: #000000;
-            font-family: Inter, 'Source Sans Pro';
-            flex-shrink: 0;
-            margin: 0rem 0rem 9rem 0.3rem;
-            font-weight: 200;
-            font-style: italic;
-            white-space: nowrap;
-            text-align: center;
-          }
-          .brownie-148-tl-bitter-stl-beyaz-belika-ikolatalar-ceviz-paracklar-budapeste-148-tl-acbadem-hamuru-prenses-kremas-ilek-ve-yaban-mersini-milfy-148-tl-milfy-hamuru-ilek-ve-muhallebi-krema-volkanik-148-tl-muz-fstk-akkan-ikolata-festival-148-tl-ilek-fstk-akkan-ikolata-jakante-148-tl-delisch-krema-toz-fstk-ve-ilek-red-velved-148-tl-frambuazl-kek-ilek-yaban-mersini-frambuaz-delisch-krema-krokanli-148-tl-krokan-stl-ikolata-ve-ikolata-paracklar-royal-168-tl-fstk-ikolata-ve-zel-ikolata-sos-valencia-148-tl-prenses-krema-karamel-fndk-paralar-ile-ikolatal-kekle-sarlm-rulo-muz-veya-ilek-148tl-zel-rulo-kek-ve-muz-ilek-oreo-ilek-148tl-ikolatal-prenses-krema-oreo-paracklar-ilek-frambuaz-ilek-148tl-muhallebi-kvamnda-krema-frambuaz-ilek-polka-148tl-ilek-muz-akkan-ikolata-ve-kavrulmu-badem-paralar-vila-168tl-ikolatal-islak-kek-gold-ikolatal-zel-krema-muz-ve-ikolata-siena-168tl-ikolatal-krep-tr-yumuak-zel-kremas-spesiyal-lezzetlerimizden-ibiza-muzlu-168tl-prenses-krema-biskvi-kapl-belika-ikolata-ibiza-ilekli-168tl-bardakta-prenses-krema-biskvi-kapl-belika-ikolata-fistikli-prens-168tl-fslk-ile-sarlms-kaymak-kvamnda-kremas-frnlanm-tr-kadayf-tane-fstk-bulle-168tl-eritilmi-bitter-ve-beyaz-ikolata-yumuack-bir-lezzet-delisch-palha-168tl-st-ile-eritilmi-belika-ikolataskavrulmu-biskvi-ve-fndk-paracklar-italyan-tiramisu-168tl-100-arabica-kahve-savoyer-biskvi-mascarpone-kremas-orman-meyveli-mousse-168tl-ikolata-mousse-kremaorman-meyveleri-ve-krep-trlar-manarola-168tl-zel-delisch-kurabiye-taban-beyaz-ikolata-mascarpone-peyniri-hindistan-ceviz-san-sebastian-cheesecake-168tl-brtlen-ikolata-sos-ile-blueberry-cheesecake-168tl-beyaz-ikolata-ve-krema-yaban-mersini-taneler-fistikli-cheesecake-168tl-tereyalu-fstkl-zel-biskvi-zerine-beyaz-ikolatal-tlm-fstk-monza-168-tl-islak-keki-gold-ikolatal-kremas-frnlanm-yer-fst-U4C {
-            max-width: 96.7rem;
-            text-align: center;
-            font-size: 2.5rem;
-            color: #000000;
-            font-family: Inder, 'Source Sans Pro';
-            flex-shrink: 0;
-            margin: 0rem 0rem 68.4rem 2.6rem;
-            font-weight: 400;
-            line-height: 0.4;
-          }
-          .line-8-Knt {
-            margin-right: 104.8rem;
-            width: 0rem;
-            height: 0.2rem;
-            background-color: #a8aa61;
-            flex-shrink: 0;
-          }
-        }
-        .auto-group-23yq-T8Q {
-          width: 0.345rem;
-          height: 513.5001rem;
-          object-fit: contain;
-          vertical-align: top;
-          flex-shrink: 0;
-        }
-      }
-      .spesiyal-rnler-P24 {
-        top: 255.1rem;
-        line-height: 0.4666666667;
-        font-style: italic;
-        font-family: Inter, 'Source Sans Pro';
-        white-space: nowrap;
-        height: 1.4rem;
-        position: absolute;
-        left: 36.55rem;
-        font-weight: 200;
-        color: #000000;
-        width: 28.4rem;
-        text-align: center;
-        font-size: 3rem;
-      }
-      .line-12-sC8 {
-        height: 0.2rem;
-        position: absolute;
-        left: 0;
-        top: 240.9rem;
-        background-color: #a8aa61;
-        width: 105.4rem;
-      }
-      .line-13-bP2 {
-        left: 0.2rem;
-        top: 115.9rem;
-        background-color: #a8aa61;
-        width: 105.6rem;
-        height: 0.2rem;
-        position: absolute;
-      }
-    }
-    .desktop-1-JoE {
-      height: 173.2rem;
-      position: absolute;
-      left: 0;
-      overflow: hidden;
-      background-color: #ffffff;
-      width: 150rem;
-      top: 0;
-      border-top: solid 0.2rem #a8aa61;
-      box-sizing: border-box;
-
-      .line-5-pFn {
-        height: 173.4rem;
-        position: absolute;
-        left: 127.6rem;
-        top: 0;
-        background-color: #a8aa61;
-        width: 0.2rem;
-      }
-      .rectangle-1-x76 {
-        vertical-align: top;
-        width: 27.8rem;
-        height: 12.2rem;
-        position: absolute;
-        left: 0;
-        top: 3.2rem;
-        object-fit: cover;
-      }
-      .line-1-tFe {
-        width: 150rem;
-        height: 0.2rem;
-        position: absolute;
-        left: 0;
-        top: 20rem;
-        background-color: #a8aa61;
-      }
-      .anasayfa-hakkimizda-rnler-men-iletiim-EKW {
-        top: 9.3rem;
-        text-align: center;
-        font-size: 2.5rem;
-        line-height: 0.56;
-        font-style: italic;
-        color: #000000;
-        width: 65.9rem;
-        height: 1.5rem;
-        position: absolute;
-        left: 40.9rem;
-        font-weight: 300;
-        font-family: Inter, 'Source Sans Pro';
-        white-space: nowrap;
-      }
-      .delisch-Wnp {
-        width: 10.4rem;
-        height: 1.4rem;
-        position: absolute;
-        top: 25.8rem;
-        color: #000000;
-        white-space: nowrap;
-        left: 70rem;
-        text-align: center;
-        font-size: 3rem;
-        font-weight: 400;
-        line-height: 0.4666666667;
-        font-family: Caramel, 'Source Sans Pro';
-      }
-      .rnler-2mA {
-        position: absolute;
-        top: 29.3rem;
-        text-align: center;
-        font-size: 3.5rem;
-        font-weight: 200;
-        color: #000000;
-        width: 16.4rem;
-        height: 1.4rem;
-        font-style: italic;
-        font-family: Inter, 'Source Sans Pro';
-        white-space: nowrap;
-        left: 66.8rem;
-        line-height: 0.4;
-      }
-      .pasta-jvU {
-        width: 26.6rem;
-        height: 35.8rem;
-        position: absolute;
-        left: 28.2rem;
-        top: 40rem;
-        object-fit: cover;
-        vertical-align: top;
-      }
-      .spesiyal-5jS {
-        left: 61.7rem;
-        top: 40rem;
-        object-fit: cover;
-        vertical-align: top;
-        width: 26.9rem;
-        height: 35.8rem;
-        position: absolute;
-      }
-      .kurabiye-D4x {
-        left: 95.2rem;
-        top: 40rem;
-        object-fit: cover;
-        vertical-align: top;
-        width: 26.3rem;
-        height: 35.8rem;
-        position: absolute;
-      }
-      .pasta-wFr {
-        left: 36.4rem;
-        top: 79rem;
-        text-align: center;
-        font-size: 3.5rem;
-        line-height: 0.4571428571;
-        letter-spacing: 0.35rem;
-        color: #000000;
-        height: 1.6rem;
-        position: absolute;
-        font-weight: 400;
-        font-family: Caveat, 'Source Sans Pro';
-        white-space: nowrap;
-        width: 9.8rem;
-      }
-      .spesiyal-rnler-deU {
-        width: 16.3rem;
-        height: 9.6rem;
-        left: 67.6rem;
-        line-height: 0.3428571429;
-        position: absolute;
-        top: 75.6rem;
-        font-size: 3.5rem;
-        font-weight: 400;
-        letter-spacing: 0.315rem;
-        color: #000000;
-        font-family: Caveat, 'Source Sans Pro';
-      }
-      .kurabiyeler-w9N {
-        letter-spacing: 0.297rem;
-        color: #000000;
-        position: absolute;
-        left: 97.2rem;
-        font-weight: 400;
-        line-height: 0.3636363636;
-        font-family: Caveat, 'Source Sans Pro';
-        white-space: nowrap;
-        width: 20.8rem;
-        height: 1.2rem;
-        top: 78.7rem;
-        font-size: 3.3rem;
-      }
-      .tasarim-pasta-1-dnt {
-        width: 35.8rem;
-        height: 60rem;
-        position: absolute;
-        left: 28.2rem;
-        top: 103.1rem;
-        object-fit: cover;
-        vertical-align: top;
-      }
-      .delisch-ZAk {
-        letter-spacing: 0.315rem;
-        color: #000000;
-        height: 1.2rem;
-        position: absolute;
-        top: 108.3rem;
-        font-weight: 400;
-        line-height: 0.3428571429;
-        width: 14.3rem;
-        left: 84rem;
-        font-size: 3.5rem;
-        font-family: Caramel, 'Source Sans Pro';
-        white-space: nowrap;
-      }
-      .tasarim-pasta-eT6 {
-        position: absolute;
-        letter-spacing: 0.36rem;
-        color: #000000;
-        top: 113.4rem;
-        font-size: 4rem;
-        font-weight: 400;
-        line-height: 0.3;
-        font-family: Caveat, 'Source Sans Pro';
-        width: 16.7rem;
-        height: 2.4rem;
-        left: 76.8rem;
-      }
-      .siz-mterilerimizin-en-gzel-gnlerinin-bir-paras-olmak-bizim-iin-ok-deerli-doum-gn-nian-ve-nikah-vb-zel-gnlerinizi-delisch-lezzeti-ile-buluturacak-tasarm-pasta-modelleri-ve-detayl-bilgi-iin-10-00-19-00-saatleri-arasnda-tasarm-pasta-blmmzle-iletiime-geebilirsiniz-M6c {
-        width: 47.6rem;
-        position: absolute;
-        top: 119.9rem;
-        font-size: 3rem;
-        font-weight: 400;
-        height: 38.4rem;
-        left: 73.2rem;
-        line-height: 1.6;
-        color: #000000;
-        font-family: Dosis, 'Source Sans Pro';
-      }
-    }
-  }
-  .auto-group-2k9n-UKe {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    flex-shrink: 0;
-    box-sizing: border-box;
-    padding: 405rem 22.4rem 72rem 22.6rem;
-    width: 100%;
-
-    .line-9-b9N {
-      background-color: #a8aa61;
-      flex-shrink: 0;
-      margin-bottom: 14.8rem;
-      width: 100%;
-      height: 0.2rem;
-    }
-    .delisch-vxL {
-      line-height: 0.1666666667;
-      font-family: Caramel, 'Source Sans Pro';
-      text-align: center;
-      font-size: 6rem;
-      color: #000000;
-      white-space: nowrap;
-      flex-shrink: 0;
-      margin: 0rem 0.4rem 14.4rem 0rem;
-      font-weight: 400;
-    }
-    .acbadem-ube-acbadem-mah-acbadem-cad-no-150-skdar-istanbul-0216-495-38-25-suadiye-ube-suadiye-badat-cd-no-460-34740-kadky-istanbul-0216-495-25-38-delischicloudcom-dLx {
-      max-width: 78.4rem;
-      font-size: 3rem;
-      font-weight: 400;
-      flex-shrink: 0;
-      margin-right: 0rem;
-      text-align: center;
-      line-height: 0.3333333333;
-      color: #000000;
-      font-family: Inria Serif, 'Source Sans Pro';
-    }
-  }
+  border-top: solid 0.2rem #a8aa61;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .line-5-pFn {
+  width: 0.2rem;
+  height: 173.4rem;
+  position: absolute;
+  left: 127.6rem;
+  top: 0;
+  background-color: #a8aa61;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .rectangle-1-x76 {
+  width: 27.8rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .line-1-tFe {
+  width: 150rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 20rem;
+  background-color: #a8aa61;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .anasayfa-hakkimizda-rnler-men-iletiim-EKW {
+  width: 65.9rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 40.9rem;
+  top: 9.3rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 0.56;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .delisch-Wnp {
+  width: 10.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 70rem;
+  top: 25.8rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.4666666667;
+  color: #000000;
+  font-family: Caramel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .rnler-2mA {
+  width: 16.4rem;
+  height: 1.4rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 29.3rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 200;
+  line-height: 0.4;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .pasta-jvU {
+  width: 26.6rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 28.2rem;
+  top: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .spesiyal-5jS {
+  width: 26.9rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 61.7rem;
+  top: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .kurabiye-D4x {
+  width: 26.3rem;
+  height: 35.8rem;
+  position: absolute;
+  left: 95.2rem;
+  top: 40rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .pasta-wFr {
+  width: 9.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 36.4rem;
+  top: 79rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 0.4571428571;
+  letter-spacing: 0.35rem;
+  color: #000000;
+  font-family: Caveat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .spesiyal-rnler-deU {
+  width: 16.3rem;
+  height: 9.6rem;
+  position: absolute;
+  left: 67.6rem;
+  top: 75.6rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 0.3428571429;
+  letter-spacing: 0.315rem;
+  color: #000000;
+  font-family: Caveat, 'Source Sans Pro';
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .kurabiyeler-w9N {
+  width: 20.8rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 97.2rem;
+  top: 78.7rem;
+  font-size: 3.3rem;
+  font-weight: 400;
+  line-height: 0.3636363636;
+  letter-spacing: 0.297rem;
+  color: #000000;
+  font-family: Caveat, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .tasarim-pasta-1-dnt {
+  width: 35.8rem;
+  height: 60rem;
+  position: absolute;
+  left: 28.2rem;
+  top: 103.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .delisch-ZAk {
+  width: 14.3rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 84rem;
+  top: 108.3rem;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 0.3428571429;
+  letter-spacing: 0.315rem;
+  color: #000000;
+  font-family: Caramel, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .tasarim-pasta-eT6 {
+  width: 16.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 76.8rem;
+  top: 113.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 0.3;
+  letter-spacing: 0.36rem;
+  color: #000000;
+  font-family: Caveat, 'Source Sans Pro';
+}
+.frame-3-X4g .auto-group-oda4-YkU .desktop-1-JoE .siz-mterilerimizin-en-gzel-gnlerinin-bir-paras-olmak-bizim-iin-ok-deerli-doum-gn-nian-ve-nikah-vb-zel-gnlerinizi-delisch-lezzeti-ile-buluturacak-tasarm-pasta-modelleri-ve-detayl-bilgi-iin-10-00-19-00-saatleri-arasnda-tasarm-pasta-blmmzle-iletiime-geebilirsiniz-M6c {
+  width: 47.6rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 73.2rem;
+  top: 119.9rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #000000;
+  font-family: Dosis, 'Source Sans Pro';
+}
+.frame-3-X4g .auto-group-2k9n-UKe {
+  box-sizing: border-box;
+  padding: 405rem 22.4rem 72rem 22.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-2k9n-UKe .line-9-b9N {
+  margin-bottom: 14.8rem;
+  width: 100%;
+  height: 0.2rem;
+  background-color: #a8aa61;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-2k9n-UKe .delisch-vxL {
+  margin: 0rem 0.4rem 14.4rem 0rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.1666666667;
+  color: #000000;
+  font-family: Caramel, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-3-X4g .auto-group-2k9n-UKe .acbadem-ube-acbadem-mah-acbadem-cad-no-150-skdar-istanbul-0216-495-38-25-suadiye-ube-suadiye-badat-cd-no-460-34740-kadky-istanbul-0216-495-25-38-delischicloudcom-dLx {
+  margin-right: 0rem;
+  max-width: 78.4rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 0.3333333333;
+  color: #000000;
+  font-family: Inria Serif, 'Source Sans Pro';
+  flex-shrink: 0;
 }
